@@ -1,5 +1,5 @@
 # 📱 Product Requirements Document (PRD)
-## ChatGo – Chat & Social Discovery App (MiChat-like + Social Feed)
+## ChatGo – Chat & Social Discovery App
 
 ---
 
